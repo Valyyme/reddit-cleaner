@@ -1,4 +1,4 @@
-# No Superfluous Reddit elements
+# Reddit Cleaner
 
 Ce script simplifie l'affichage de Reddit en supprimant les éléments structurels qui occupent inutilement de l'espace à l'écran. L'objectif est d'offrir une lecture plus fluide et une meilleure immersion dans le flux de contenu, particulièrement lors de la consultation de vidéos ou sur des écrans de petite taille.
 
